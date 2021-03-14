@@ -1,7 +1,7 @@
 # First Week Assignment
->## [Quiz Answers](https://github.com/ishabaral/python-with-django/tree/main/first-week-assignment/quiz)
+>## [Quiz Answers](https://github.com/ishabaral/python-with-django/blob/main/first-week-assignment/quiz/README.md)
 
->## [Project Answers]()
+>## [Project Answers](https://github.com/ishabaral/python-with-django/blob/main/first-week-assignment/project/README.md)
 
 ## Test Your Knowledge: Quiz
 1. What are the six main reasons that people choose to use Python?
