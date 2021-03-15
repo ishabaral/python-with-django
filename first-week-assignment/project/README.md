@@ -99,7 +99,7 @@
 
 7. Enter the expression help() at the shell prompt. Follow the instructions to browse the topics and modules.
     
-    ![alt text](https://drive.google.com/file/d/1ZeZeBsa2A7FGJHCT6LI3I3hStEOF3QgR/view?usp=sharing/200/200)
+    ![alt text](https://drive.google.com/file/d/1ZeZeBsa2A7FGJHCT6LI3I3hStEOF3QgR/view?usp=sharing)
     >Figure shows the topics
     >Similarly type modules to see the result 
 
