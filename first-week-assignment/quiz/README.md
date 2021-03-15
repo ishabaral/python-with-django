@@ -103,7 +103,8 @@
    >- IDLE has some usability features that can burn you once you leave the IDLE GUI: a script's variables are automatically imported to the interactive scope in IDLE and working directories are changed when you run a file, for instance, but Python itself does not take such steps in general.
 
 8. What is a namespace, and how does it relate to module files?
-   > A namespace is just a package of variables (i.e., names). It takes the form of an object with attributes in Python. Each module file is automatically a namespace— that is, a package of variables reflecting the assignments made at the top level of the file. Namespaces help avoid name collisions in Python programs: because each module file is a self-contained namespace, files must explicitly import other files in order to use their names.
+   > A namespace is a collection of currently defined symbolic names along with information about the object that each name references. <br>
+   Each module file is automatically a namespace— that is, a package of variables reflecting the assignments made at the top level of the file. Namespaces help avoid name collisions in Python programs: because each module file is a self-contained namespace, files must explicitly import other files in order to use their names.
 
 
 ## Test Your Knowledge: Quiz
@@ -130,4 +131,5 @@
    Python's dictionary is the only mapping type in the core type set.
 
 6. What is “polymorphism,” and why should you care?
-   >"Polymorphism" means that the meaning of an operation (like a +) depends on the objects being operated on. This turns out to be a key idea (perhaps the key idea) behind using Python well—not constraining code to specific types makes that code automatically applicable to many types.
+   >Polymorphism in python defines methods in the child class that have the same name as the methods in the parent class.<br>
+   We should care polymorphism because it allows for flexibility and loose coupling so that code can be extended and easily maintained over time.
