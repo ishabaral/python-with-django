@@ -98,10 +98,7 @@
    #Here we are entering a string not a number but we are trying to perform addition operation of the string(num) and a integer(1). That's why we got the error.
 
 7. Enter the expression help() at the shell prompt. Follow the instructions to browse the topics and modules.
-    
-    ![alt text](https://drive.google.com/file/d/1ZeZeBsa2A7FGJHCT6LI3I3hStEOF3QgR/view?usp=sharing)
-    >Figure shows the topics
-    >Similarly type modules to see the result 
+    >Observe the result in shell 
 
 8. The tax calculator program of the case study outputs a floating-point number that might show more than two digits of precision. Use the round function to modify the program to display at most two digits of precision in the output number.
    ```python
