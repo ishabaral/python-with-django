@@ -70,7 +70,7 @@
 6. What is “polymorphism,” and why should you care?
 
 
-## Projects :
+## [Projects](https://github.com/ishabaral/python-with-django/blob/main/first-week-assignment/project/README.md) :
 
 1. Open a Python shell, enter the following expressions, and observe the results:
     ```python

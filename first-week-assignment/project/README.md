@@ -18,17 +18,17 @@
     ```python
     8
     ```
-    Output:
+    `Output:`
     >8
     ```python
     8*2
     ```
-    Output:
+    `Output:`
     >16
     ```python
     8**2
     ```
-    Output:
+    `Output:`
     >64
     ```python
 
@@ -38,7 +38,7 @@
    ```python
     print("My name is Isha Baral. \nI am from Pokhara. \nMy contact number is 9856000001 ")
    ```
-   Output: 
+   `Output:` 
    >My name is Isha Baral. <br> 
    I am from Pokhara. <br> 
    My contact number is 9856000001 
@@ -48,7 +48,7 @@
    name= input("Your name is ")
    print("Your name is", name)
    ```
-   Output:
+   `Output:`
    >Your name is Isha Baral <br>
    Your name is Isha Baral
 
@@ -58,7 +58,7 @@
     age = int(input("Enter your age :"))
     print("Your name is {name} and your age is {age}".format(age=age, name=name))
    ```
-   Output:
+   `Output:`
    >Enter your name :Isha <br/>
    Enter your age :20 <br/>
    Your name is Isha and your age is 20 
@@ -69,7 +69,7 @@
    area= 3.14*radius**2
    print("The area of circle is ", area)
    ```
-   Output:
+   `Output:`
    >Enter the radius of a circle :7 <br>
    The area of circle is  153.86
 
